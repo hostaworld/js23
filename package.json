@@ -1,0 +1,19 @@
+{
+  "author": "Jacky Jiang <hostaworld@gmail.com>",
+  "name": "js23",
+  "description": "A nodejs lib of accessing Amazon S3 service REST API",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hostaworld/js23",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hostaworld/js23.git"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.2.0"
+  },
+  "dependencies": {
+  	"mime" : "1.2.5"
+  },
+  "devDependencies": {}
+}
